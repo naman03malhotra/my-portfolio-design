@@ -16,7 +16,7 @@ Custom designed portfolio template.
 
 ### Dependencies
 
-Senti uses a number of open source projects to work properly:
+letsconnect.co uses a number of open source projects to work properly:
 - Any Server of your choice.
 - Node(V 5.9.1) and NPM(v3.7.3) to build dependencies.
 - [Browserify](http://browserify.org/) - Lets you require('modules') in the browser by bundling up all of your dependencies.
